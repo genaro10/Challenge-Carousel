@@ -22,4 +22,15 @@
   
   **IOS EMULATOR**
   
+
+https://user-images.githubusercontent.com/49800615/133082227-66d17ad6-7b66-4e4e-8544-95008707a1af.mov
+
+
+  **ANDROID EMULATOR**
+  
+  
+
+https://user-images.githubusercontent.com/49800615/133082277-db9d5f25-d7e7-46cd-87ec-5e8577ab5972.mov
+
+
   
