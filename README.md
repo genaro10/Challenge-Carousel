@@ -2,7 +2,7 @@
 
 **To begin, you must clone the repository with the following command**
 
-  >https://github.com/genaro10/Challenge-Carousel.git
+  >git clone https://github.com/genaro10/Challenge-Carousel.git
 
 **Then, you should install the node packages with the command**
 
